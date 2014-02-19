@@ -6,6 +6,6 @@ data <- read.csv("data/gapminder-FiveYearData.csv", stringsAsFactors=FALSE)
 #this will be version control
 
 #add new line
-#line
+#line2
 
 #this will be controlled by git
